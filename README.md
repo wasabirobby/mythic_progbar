@@ -1,4 +1,5 @@
-<h5 align='center'>Modified to support <i><b>linden_inventory</i></b></h5>
+# JUST UPLOADED FOR EASY ACCESS TO THOSE WHO DON'T HAVE `mythic_progbar` AND WANT TO USE WITH MY SCRIPTS.
+# IF YOU ALREADY HAVE THIS SCRIPT IN YOUR RESOURCES THAN DISREGARD THIS
 
 ***
 
